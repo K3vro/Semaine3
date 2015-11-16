@@ -23,7 +23,6 @@ Codecademy: CSS Introduction et plus
         <h3>Mes formations</h3>
         <li>CAP serrurier chaudronnier</li>
     </ul>
-        
     <ul>
         <h3>Experience professionnelle</h3>
         <li>BESSON INDUSTRIE Villedieu sur Indre apprenti et salarie</li>
