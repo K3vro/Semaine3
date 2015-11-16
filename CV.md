@@ -3,7 +3,7 @@ Codecademy: CSS Introduction et plus
 <html>
 
 <head>
-<link type="text/css" rel="style" href="style.css"/>
+<link type="text/css" rel="style" href="stylesheet.css"/>
 <title>Mon CV</title>
 </head>
 <body>
