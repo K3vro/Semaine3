@@ -26,9 +26,9 @@ Codecademy: CSS Introduction et plus
         
     <ul>
         <h3>Experience professionnelle</h3>
-        <li>BESSON INDUSTRIE Villedieu sur Indre (apprenti et salarie)</li>
-        <li>POUJOULAT Buzancais (interimaire)</li>
-        <li>SIRAGA Buzancais (interimaire)</li>
+        <li>BESSON INDUSTRIE Villedieu sur Indre apprenti et salarie</li>
+        <li>POUJOULAT Buzancais interimaire</li>
+        <li>SIRAGA Buzancais interimaire</li>
     </ul>
 </main>
     
