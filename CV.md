@@ -11,7 +11,7 @@ Codecademy: CSS Introduction et plus
 <header>
     <a href="https://www.codecademy.com/users/rozier/achievements">Lien des Badges</a>
     <h1>Kevin rozier</h1>
-    <h2>Le poste que je recherche</h2>git 
+    <h2>Le poste que je recherche</h2> 
 </header>
 
 <main>
